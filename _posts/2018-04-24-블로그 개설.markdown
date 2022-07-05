@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  블로그 오픈
+title: 블로그 오픈
 description: 블로그 개설
-date:   2022-07-01 00:01:35 +0000
-image:  '/image/01.png'
-tags:   [blog]
+date: 2022-07-01 00:01:35 +0000
+image: '/images/01.png'
+tags: [blog]
 ---
 
 안녕하세요 블로그를 개설했습니다.
