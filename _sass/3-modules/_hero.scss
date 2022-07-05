@@ -22,19 +22,19 @@
 
 .hero__left {
   position: relative;
-  margin-right: 68px;
+  margin-right: 130px;
 
   .hero__image {
     position: relative;
     z-index: 10;
     width: 380px;
-    height: 480px;
+    height: 380px;
     margin: 0 auto;
     border-radius: 2px;
     overflow: hidden;
     user-select: none;
     background: var(--text-color);
-    box-shadow: 10px 10px 0 var(--heading-font-color);
+    // box-shadow: 10px 10px 0 var(--heading-font-color);
 
     img {
       position: absolute;
@@ -85,8 +85,8 @@
 
   .hero__title {
     margin-bottom: 32px;
-    font-size: 68px;
-    line-height: .85em;
+    font-size: 48px;
+    // line-height: .85em;
     font-weight: 900;
     letter-spacing: -1px;
     text-transform: uppercase;

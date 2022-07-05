@@ -27,7 +27,7 @@
 .post-image,
 .page-image {
   position: relative;
-  height: 590px;
+  height: 400px;
   margin-bottom: 68px;
   border-radius: 2px;
   overflow: hidden;
@@ -40,7 +40,11 @@
     border-radius: 2px;
     object-fit: cover;
     user-select: none;
-    background-color: var(--text-color);
+    // background-color: var(--text-color);
+  }
+  
+  .foot-img {
+    object-fit: contain;
   }
   
   @media only screen and (max-width: $desktop) {

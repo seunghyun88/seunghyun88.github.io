@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: Joseph Lawrence
+title: Jung Seunghyun
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Joseph is a super minimal content focus theme for Jekyll.
+description: Jung Seunghyun blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://joseph-jekyll.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Author Settings
 author:
-  name: Joseph Lawrence
-  bio: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
-  avatar: '/images/01.jpg'
+  name: Jung Seunghyun
+  bio: Jung Seunghyun blog.
+  avatar: '/images/01.png'
 
 social:
 - {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
@@ -27,25 +27,25 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Joseph! Designer & Developer.
-  hero__description: I'm a designer & products creator. I teach designers code and developers design. Passionate about people, health, & design systems.
-  hero__image: '/images/01.jpg'
+  hero__title: 찾아주셔서 감사합니다.
+  hero__description: 개발자 정승현입니다.<br>웹 프로그래밍 개발을 하고있고, 기계학습에 관심이 많습니다.<br>취미로 영상제작을 하고 있습니다.
+  hero__image: '/images/01.png'
 
 
 #-------------------------------
 # Newsletter (_includes/footer-widgets/widget-subscribe.html)
-mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
-mailchimp__title: Get interesting news # Add your Title
-mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
-mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-mailchimp__button__text: Join # Add your button text
+# mailchimp: true # To enable the mailchimp form, use the value 'true'. To disable the form, use the value 'false' or leave the field blank.
+# mailchimp__title: Get interesting news # Add your Title
+# mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+# mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+# mailchimp__button__text: Join # Add your button text
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
-  description: Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: jshpal8@gmail.com # Add your email for contact form
+  description:  # Add a description of your form
 
 # NOTE
 # Joseph comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
@@ -53,12 +53,12 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+# disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+# google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

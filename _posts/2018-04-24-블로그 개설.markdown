@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Do what you can, with what you have, where you are
-description: Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empull...
-date:   2018-11-12 15:01:35 +0300
-image:  '/images/07.jpg'
-tags:   [lifestyle, travel, story]
+title:  블로그 오픈
+description: 안녕하세요 블로그 오픈합니다...
+date:   2022-07-01 00:01:35 +0000
+image:  '/images/13.jpg'
+tags:   [blog]
 ---
 Sin tantum est boni praeter summam voluptatem, et eam sempiternam. Cur post Tarentum ad Archytam. Qua ex cognitione facilior facta est investigatio rerum occultissimarum, empulla enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit. Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus ages tandem finxerit.
 
-![Work]({{site.baseurl}}/images/07-1.jpg)
-*Photo by [Roberto Nickson](https://unsplash.com/@rpnickson) on [Unsplash](https://unsplash.com/)*
+![Rest]({{site.baseurl}}/images/13-1.jpg)
+*Photo by [Drew Murphy](https://unsplash.com/photos/EDryHzAOy28) on [Unsplash](https://unsplash.com/)*
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit.
 
@@ -17,13 +17,8 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
 
 In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente potest.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/07-2.jpg" alt="Technology">
-    <img src="/images/07-3.jpg" alt="Technology">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+![Rest]({{site.baseurl}}/images/13-2.jpg)
+*Photo by [Anthony Fomin](https://unsplash.com/photos/OpmzKMCwjJU) on [Unsplash](https://unsplash.com/)*
 
 Ego quoque, inquit, didicerim libentius si quid attuleris, quam te rephenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates.
 
