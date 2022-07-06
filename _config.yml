@@ -14,12 +14,12 @@ author:
   avatar: '/images/01.png'
 
 social:
-- {icon: "ion-logo-twitter", label: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", label: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
-- {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", label: Instagram, link: "https://instagram.com"}
-- {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
+- {icon: "ion-logo-instagram", label: Instagram, link: ""}
+- {icon: "ion-logo-facebook", label: Facebook, link: ""}
+- {icon: "ion-logo-youtube", label: Yotube, link: ""}
+# - {icon: "ion-logo-pinterest", label: Pinterest, link: "https://pinterest.com"}
+# - {icon: "ion-logo-dribbble", label: Dribbble, link: "https://dribbble.com"}
+# - {icon: "ion ion-logo-vimeo", label: Vimeo, link: "https://vimeo.com"}
 
 # Example of adding a new link to the author section and footer - {icon: "ion-logo-github", label: Github, link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -28,7 +28,7 @@ social:
 # Hero Settings
 hero:
   hero__title: 찾아주셔서 감사합니다.
-  hero__description: 개발자 정승현입니다.<br>웹 프로그래밍 개발을 하고있고, 기계학습에 관심이 많습니다.<br>취미로 영상제작을 하고 있습니다.
+  hero__description: 개발자 정승현입니다.<br>웹 프로그래밍 개발을 하고 있고, 기계학습에 관심이 많습니다.<br>취미로 영상제작을 하고 있습니다.
   hero__image: '/images/01.png'
 
 
