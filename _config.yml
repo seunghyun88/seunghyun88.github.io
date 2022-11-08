@@ -28,7 +28,7 @@ social:
 # Hero Settings
 hero:
   hero__title: 찾아주셔서 감사합니다.
-  hero__description: 개발자 정승현입니다.<br>웹 프로그래밍 개발을 하고 있고, 기계학습에 관심이 많습니다.
+  hero__description: 안녕하세요 개발자 정승현입니다.<br>웹 프로그래밍 개발을 하고 있고, 기계학습에 관심이 많습니다.
   hero__image: '/images/01.png'
 
 
